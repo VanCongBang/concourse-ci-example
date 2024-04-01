@@ -1,10 +1,10 @@
-docker-username: <USERNAME>
-docker-password: <PASSWORD>
-docker-source: alperttiti/concourse-ci-example
+docker-username: congbang10h
+docker-password: Bang12345
+docker-source: congbang10h/concourse
 docker-tag: example-a
 docker-file: Dockerfile-a
 docker-net: concourse-example
 trigger-build: true
-git-source: https://github.com/solita-alperttiti/concourse-ci-example.git
+git-source: https://github.com/VanCongBang/concourse-ci-example.git
 git-branch: master
 concourse-password: example321
